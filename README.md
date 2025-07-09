@@ -1,4 +1,4 @@
-### For SELMA2025: volume cutting - cutting tif slices into 3D patches 
+### For SELMA3D2025: volume cutting - cutting tif slices into 3D patches 
 
 The original large 3D light-sheet microscopy images provided in SELMA2025 are saved as TIFF slices. Participants who need to crop them into smaller 3D patches for model training can use this repository, which is adapted from the pipeline of our [SCP-Nano](https://github.com/erturklab/SCP-Nano/) project. The resulting 3D patches will be saved as NIFTI files.
 
